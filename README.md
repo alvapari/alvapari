@@ -12,7 +12,7 @@
   convencido de que me llevo esa experiencia conmigo a la nueva aventura tecnológica.
 
 - ✍️ Si quieres ver <b>cómo documento</b> los proyectos que voy desarrollando en C, aquí puedes echar un vistazo:
-  - https://42guideprojects.notion.site/GU-A-DID-CTICA-PARA-PROYECTOS-DE-42-SCHOOL-60591842fe894832b0e70d817fdf85ff
+  - https://42guideprojects.notion.site
 
 <br>
 
