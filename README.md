@@ -63,11 +63,22 @@
     <td>100/100</td>
     <td><span style="color:green;">❎</span></td>
   </tr>
+  <tr>
+    <td>MiniShell</td>
+    <td><span style="color:orange;">developing</span></td>
+  </tr>
+
 </table>
 
 <br>
 
-### ⛰️ Más sobre mí (random):
+### 👨‍💻 SKILLS:
+
+  
+
+<br>
+
+### ⛰ Más sobre mí (random):
 
     . Mi personaje de ficción favorito es -y tal vez siempre sea- Dale Cooper, de Twin Peaks
     
