@@ -22,7 +22,7 @@
     <th>Bonus</th>
   </tr>
   <tr>
-    <td>Libft</td>
+    <td><a href="https://github.com/alvapari/Libft">Libft</a></td>
     <td>125/100</td>
     <td><span style="color:green;">✅</span></td>
   </tr>
