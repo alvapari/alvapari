@@ -8,8 +8,6 @@
   - FPGS <b>Administración de Sistemas Informáticos en Red.</b> IES Aguadulce. (Estudiante).
   - Certificado Profesional de Soporte de IT de Google
   
-- 👔 Tengo varios años de experiencia laboral en campos no tecnológicos, sé que ese bagaje me acompañará en mi camino en el sector tech.
-
 - ✍️ Si quieres ver <b>cómo documento</b> los proyectos que voy desarrollando en C, aquí puedes echar un vistazo:
   - https://42guideprojects.notion.site
 
@@ -71,20 +69,24 @@
 </table>
 
 <br>
+<br>
 
 ### 👨‍💻 SKILLS:
 
-  
-
+<br>
 <br>
 
 ### ⛰ Más sobre mí (random):
 
-    . Mi personaje de ficción favorito es -y tal vez siempre sea- Dale Cooper, de Twin Peaks
+<br>
+
+- 👔 Tengo varios años de experiencia laboral en campos no tecnológicos, sé que ese bagaje me acompañará en mi camino en el sector tech.
+
+- Mi personaje de ficción favorito es -y tal vez siempre sea- Dale Cooper, de Twin Peaks
     
-    . Me encanta la naturaleza. Por eso pude disfrutar tantísimo haciendo rutas cuando vivía en Granada
-    
-    . Adoro Portugal y pasé varios años estudiando su idioma.
+- Me encanta la naturaleza. Por eso pude disfrutar tantísimo haciendo rutas cuando vivía en Granada
+
+- Adoro Portugal y pasé varios años estudiando su idioma.
 
 
 <!---
