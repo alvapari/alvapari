@@ -1,9 +1,9 @@
 
   ## 👋 ¡Hola! Soy Álvaro
 
-- 🗓️ Desde mediados de 2023 soy estudiante de <b>Campus 42 Málaga Fundación Telefónica.</b>
+- 🗓️ Desde mediados de 2023 estudio en <b>Campus 42 Málaga Fundación Telefónica</b>
 
-- 📚 Tras unos meses en el Campus, comencé a interesarme en <b>Ciberseguridad</b> por lo que decidí realizar otras formaciones:
+- 📚 Tras unos meses en el Campus, comencé a interesarme por la <b>Ciberseguridad</b> así que decidí realizar otras formaciones:
   - <b>Certificado Profesional de Ciberseguridad de Google</b> 
   - FPGS <b>Administración de Sistemas Informáticos en Red.</b> IES Aguadulce. (Estudiante).
   - Certificado Profesional de Soporte de IT de Google
@@ -24,7 +24,7 @@
   <tr>
     <td>Libft</td>
     <td>125/100</td>
-    <td><span style="color:green;">❎</span></td>
+    <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
     <td>ft_printf</td>
@@ -69,24 +69,26 @@
 </table>
 
 <br>
-<br>
+
+
 
 ### 👨‍💻 SKILLS:
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,py,vscode,git,github)](https://skillicons.dev)&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/b1d08319-de84-41e1-9ab3-ef0e9b7f6414" alt="image" width="49"/>          
 
 <br>
 <br>
 
 ### ⛰ Más sobre mí (random):
 
-<br>
+- ☕ Mi personaje de ficción favorito es -y creo que siempre será- <b>Dale Cooper</b>, de Twin Peaks
 
-- 👔 Tengo varios años de experiencia laboral en campos no tecnológicos, sé que ese bagaje me acompañará en mi camino en el sector tech.
-
-- Mi personaje de ficción favorito es -y tal vez siempre sea- Dale Cooper, de Twin Peaks
+- 👔 Tengo varios años de experiencia laboral en campos no tecnológicos, y <b>me llevo ese bagaje a mi nuevo camino en el sector tech</b>
     
-- Me encanta la naturaleza. Por eso pude disfrutar tantísimo haciendo rutas cuando vivía en Granada
+- 🏞️ Me encanta la <b>naturaleza</b>. Por eso pude disfrutar tantísimo haciendo rutas cuando vivía en Granada
 
-- Adoro Portugal y pasé varios años estudiando su idioma.
+- 🇵🇹 Siempre que puedo hago una escapada a <b>Portugal</b> y pasé varios años estudiando su idioma
 
 
 <!---
