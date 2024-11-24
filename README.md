@@ -62,7 +62,7 @@
     <td><span style="color:green;">❎</span></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/alvapari/MiniShell">MiniShell</a></td>
+    <td><a href="https://github.com/alvapari/MiniShell">MiniShell</a> <a href="https://github.com/Noa42" target="_blank">w/Noa42</a></td>
     <td><span style="color:orange;">developing</span></td>
   </tr>
 </table>
