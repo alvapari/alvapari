@@ -27,7 +27,7 @@
     <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
-    <td>ft_printf</td>
+    <td><a href="https://github.com/alvapari/Printf">ft_printf</a></td>
     <td>100/100</td>
     <td><span style="color:green;">❎</span></td>
   </tr>
@@ -37,7 +37,7 @@
     <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
-    <td>get_next_line</td>
+    <td><a href="https://github.com/alvapari/Get_Next_Line">Get_Next_Line</a></td>
     <td>125/100</td>
     <td><span style="color:green;">✅</span></td>
   </tr>
@@ -47,25 +47,24 @@
     <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
-    <td>push_swap</td>
+    <td><a href="https://github.com/alvapari/Push_swap">push_swap</a></td>
     <td>87/100</td>
     <td><span style="color:red;">❎</span></td>
   </tr>
   <tr>
-    <td>so_long</td>
+    <td><a href="https://github.com/alvapari/SoLong">so_long</a></td>
     <td>122/100</td>
     <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
-    <td>Philosophers</td>
+    <td><a href="https://github.com/alvapari/Philosophers">Philosophers</a></td>
     <td>100/100</td>
     <td><span style="color:green;">❎</span></td>
   </tr>
   <tr>
-    <td>MiniShell</td>
+    <td><a href="https://github.com/alvapari/MiniShell">MiniShell</a></td>
     <td><span style="color:orange;">developing</span></td>
   </tr>
-
 </table>
 
 <br>
