@@ -42,7 +42,7 @@
     <td><span style="color:green;">✅</span></td>
   </tr>
   <tr>
-    <td>minitalk</td>
+    <td><a href="https://github.com/alvapari/minitalk">minitalk</td>
     <td>115/100</td>
     <td><span style="color:green;">✅</span></td>
   </tr>
