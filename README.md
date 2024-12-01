@@ -87,7 +87,7 @@
     
 - 🏞️ Me encanta la <b>naturaleza</b>. Por eso pude disfrutar tantísimo haciendo rutas cuando vivía en Granada
 
-- 🇵🇹 Siempre que puedo hago una escapada a <b>Portugal</b> y pasé varios años estudiando su idioma
+- 🇵🇹 Siempre que puedo hago una escapada a <b>Portugal</b> y pasé varios años estudiando su idioma.
 
 
 <!---
