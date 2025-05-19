@@ -63,7 +63,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/alvapari/MiniShell">MiniShell</a> <a href="https://github.com/Noa42" target="_blank">w/Noa42</a></td>
-    <td><span style="color:orange;">developing</span></td>
+    <td>101/100</td>
+    <td><span style="color:green;">✅</span></td>
   </tr>
 </table>
 
